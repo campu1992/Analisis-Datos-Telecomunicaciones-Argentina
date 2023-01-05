@@ -62,6 +62,8 @@ Fuí contratado por una inversionista colombiana que quiere incursionar en el me
 ## Recomendaciones: 
 
 *Se recomienda invertir en empresas que estén ofreciendo como servicio principal el internet de fibra óptica.
+
 *Se recomienda invertir en empresas que presten el servicio de telefonia móvil con cierta cautela , ya que, el acceso no está aumentando al mismo nivel del ingreso y es importante establecer el por qué de ésta situación.
+
 *No se recomienda invertir en empresas que presten servicios de telefonia fija, pues es un servicio insostenible en el largo plazo a pesar del crecimiento en los ingresos.
 
