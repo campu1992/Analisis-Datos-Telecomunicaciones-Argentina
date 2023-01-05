@@ -40,14 +40,19 @@ Fuí contratado por una inversionista colombiana que quiere incursionar en el me
 ## Herramientas a utilizar:
 
  *Python
+ 
  *Power Bi
 
 ## Conclusiones: 
 
 *El sector de internet viene creciendo en acceso desde el 2014 en todas las provincias de argentina, siendo el internet de fibra óptica y el cablemodem los de mayor crecimiento.
+
 *Los ingresos por prestacion de servicio de internet de igual forma viene subiendo de forma sostenida desde el 2014 , lo cual lo hace un segmento atractivo para invertir dentro de la industria de las telecomunicaciones.
+
 *El acceso a telefonia movil viene subiendo cada año desde el 2014 , pero se ha encontrado que el aumento en el acceso a telefonia movil no necesariamente ha venido acompañado de un crecimiento en los ingresos, y es un tema a evaluar.
+
 *Haciendo una comparacion en los ingresos por servicio de internet y los ingresos por venta de servicios de telefonia movil se ve una divergencia bastante grande en la tendencia de crecimiento, lo cual muestra que el servicio de internet esta creciendo a un ritmo mayor que la telefonia movil.
+
 *En la telefonia fija se puede observar que el acceso ha venido disminuyendo a través de los años, pero ocurre que el ingreso ha ido aumentando conforme el acceso ha disminuido, lo que permite deducir que probablemente los precios esten aumentando al disminuir la cantidad de accesos para poder sostener un incremento en las ventas de éste servicio.
 
 <p align="center">
